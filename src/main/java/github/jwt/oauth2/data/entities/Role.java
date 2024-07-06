@@ -1,4 +1,4 @@
-package github.jwt.oauth2.entities;
+package github.jwt.oauth2.data.entities;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

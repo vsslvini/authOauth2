@@ -1,4 +1,4 @@
-package github.jwt.oauth2.entities;
+package github.jwt.oauth2.data.entities;
 
 import java.time.Instant;
 
